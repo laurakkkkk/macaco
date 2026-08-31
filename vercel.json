@@ -1,0 +1,12 @@
+{
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "@telegram_bot_token",
+    "TELEGRAM_CHAT_ID": "@telegram_chat_id",
+    "TELEGRAM_ADMIN_IDS": "@telegram_admin_ids",
+    "SECRET_TOKEN": "@secret_token",
+    "RATE_LIMIT_MAX": "@rate_limit_max",
+    "RATE_LIMIT_WINDOW": "@rate_limit_window",
+    "SESSION_TIMEOUT": "@session_timeout",
+    "ALLOWED_ORIGINS": "@allowed_origins"
+  }
+}
